@@ -10,6 +10,7 @@
 
 <style lang="scss">
 @import '../node_modules/purecss/build/pure-min.css';
+@import './assets/fonts/Glyphter.css';
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
